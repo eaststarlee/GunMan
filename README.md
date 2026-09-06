@@ -20,7 +20,8 @@
 
 ## 🎬 Preview
 
-ㅁㄴㅇㄹ
+<img width="400" height="225" alt="GunMan1_Gif" src="https://github.com/user-attachments/assets/a3089745-900a-41ec-944f-bdb75d94932c" />
+<img width="400" height="225" alt="GunMan2_Gif" src="https://github.com/user-attachments/assets/1205a680-77c3-436b-86b3-8857e2b97cdf" />
 
 ---
 
